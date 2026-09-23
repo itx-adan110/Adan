@@ -45,7 +45,7 @@ button { font: inherit; }
 }
 
 .nav-wrap {
-  min-height: 72px;
+  min-height: 22px;
   display: flex;
   align-items: center;
   justify-content: space-between;
