@@ -271,7 +271,7 @@ button { font: inherit; }
     object-fit: cover;
     object-position: center;
 }
-.logo-img img{
+.logo-img{
       width: 10%;
     height: 10%;
 }
